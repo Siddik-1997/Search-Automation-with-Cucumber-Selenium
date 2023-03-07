@@ -1,6 +1,6 @@
 Feature: Testing github functionality
 
-  Scenario Outline: User visit Github page as guest and search repo and do click on About page
+  Scenario Outline: User visits Github site as a guest for doing some actions
     Given User visited the Github portal
     When User search with "<repoName>"
     Then User verify with "<repoExpectName>"
