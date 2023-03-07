@@ -36,7 +36,8 @@ Cucumber is a testing tool that enables behavior-driven development (BDD) in sof
 - Click on About button and assert it.
 
 ## Report:
-![Search](https://user-images.githubusercontent.com/123433625/223455298-4b21151f-758e-4c0b-b79e-737b084a69c1.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/123433625/223494737-d254635b-8468-4589-aa9b-731fc4a5b691.png)
 
 ## Video Output:
 https://user-images.githubusercontent.com/123433625/223455198-ad715d58-c18e-404e-9b0f-34ecb96d66a5.mp4
